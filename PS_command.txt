@@ -1,0 +1,10 @@
+ETAPE 1 - INITIALISATION
+# ajout nouvelle instance dans Main.class
+puis compiler 
+# compiler
+javac com/tissher/domain/EntrepriseTextile.java com/tissher/Main.java
+# lancer le programme
+java com.tissher.Main
+
+ETAPE 2 - TABLEAU DYNAMIQUE
+Objectif  : faciliter la création de nouvelles instances
